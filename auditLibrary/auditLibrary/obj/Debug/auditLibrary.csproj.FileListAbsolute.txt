@@ -1,0 +1,12 @@
+H:\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.csproj.CoreCompileInputs.cache
+H:\УП02\Задание 6\auditLibrary\auditLibrary\bin\Debug\auditLibrary.dll
+H:\УП02\Задание 6\auditLibrary\auditLibrary\bin\Debug\auditLibrary.pdb
+H:\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.dll
+H:\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.pdb
+H:\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.csprojAssemblyReference.cache
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\bin\Debug\auditLibrary.dll
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\bin\Debug\auditLibrary.pdb
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.csproj.AssemblyReference.cache
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.csproj.CoreCompileInputs.cache
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.dll
+F:\УП02\БД\УП02\Задание 6\auditLibrary\auditLibrary\obj\Debug\auditLibrary.pdb
